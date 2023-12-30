@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751448740000",
+    "project_id": "saudasalaf-b7a58",
+    "storage_bucket": "saudasalaf-b7a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751448740000:android:2b5d794f5cd5d78348b9c5",
+        "android_client_info": {
+          "package_name": "com.example.saudasalaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751448740000-ul23ngu3vmdke4cf9aff8sdv521pf8r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saudasalaf",
+            "certificate_hash": "a03a42b4354d1daeb3fe6066a6a22d5d9796cde2"
+          }
+        },
+        {
+          "client_id": "751448740000-9rasgqjck64omv9i2kntibj5bkmns26l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTXi6NFUhRaZvJ03j4pJQiPV5O53vWiGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751448740000-9rasgqjck64omv9i2kntibj5bkmns26l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
